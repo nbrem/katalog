@@ -1,0 +1,35 @@
+{"katalogs": [
+
+        {
+            "name": "Jeux de données", 
+            "description": "Retrouvez toutes les mesures et données utilisées pour caractériser nos Low-techs.", 
+            "auteur": "Konsilion",
+            "link": "https://github.com/Konsilion/konsilion-drive/blob/main/data-list-datami.csv",
+            "image": "https://cdn.pixabay.com/photo/2014/10/05/19/02/binary-code-475664_960_720.jpg"
+        },
+    
+        {
+            "name": "Modèlisations numériques", 
+            "description": "Retrouvez tous les modèles numériques de Konsilion", 
+            "auteur": "Konsilion",
+            "link": "https://github.com/Konsilion/konsilion-drive/blob/main/data-list-datami.csv",
+            "image": "https://konsilion.fr/wp/wp-content/uploads/2022/04/Logo_Konsilion_V2-1024x325.png"
+        },
+    
+        {
+            "name": "Prototypes & Mesures", 
+            "description": "Tous les prototypes que nous avons rescencés.", 
+            "auteur": "Konsilion",
+            "link": "https://github.com/Konsilion/konsilion-drive/blob/main/prototypes-list-datami.csv",
+            "image": "https://images.pexels.com/photos/3735757/pexels-photo-3735757.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+    
+        {
+            "name": "Documentation", 
+            "description": "Toute la documentation autour de projets Low-tech et de ses composantes.", 
+            "auteur": "Konsilion",
+            "link": "https://github.com/Konsilion/konsilion-drive/blob/main/data-list-datami.csv",
+            "image": "https://img.freepik.com/photos-gratuite/livre-bibliotheque-manuel-ouvert_1150-5920.jpg?w=1380&t=st=1669321743~exp=1669322343~hmac=bde4447d030ff678b821f928bca56f933e20fdea13bc293c8dc3e3ef3d690438"
+        }  
+
+]}
